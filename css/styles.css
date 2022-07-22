@@ -51,6 +51,7 @@ a {text-decoration: none;}
 .site-nav .link:hover,.site-nav .link:focus{
 	color:var(--accent-color);
 }
+.site-nav .link.current{color: var(--accent-color);}
 
 /* оформление контактов в шапке */
 .contacts .link{
